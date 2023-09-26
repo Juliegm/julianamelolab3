@@ -1,0 +1,9 @@
+h1{color:red; background-color:#000; font-size:larger; text-align: center;}
+h2{color:rgb(255, 255, 255); background-color:hsl(107, 33%, 50%); font-weight:bold;text-decoration: line-through;}
+h3{background-color:yellow; font-style:italic;line-height: 50%; word-spacing: 7px;}
+p{color:hsl(325, 100%, 52%); font-variant: small-caps;}
+ul{background-color:hsl(205, 100%, 89%);letter-spacing: 5px;}
+ol{color:lightgray; background-color:hsl(0, 0%, 100%);letter-spacing: 5px;}
+html{background-color:hsla(303, 85%, 34%, 1);}
+em{text-transform:uppercase;}
+strong{text-shadow:15px 8px 5px yellow;}
